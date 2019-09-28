@@ -1,6 +1,6 @@
-# curso_flutter
+# Flutter RSS Feed Reader
 
-A new Flutter project.
+A Flutter experiment project to learn a bit about the tool.
 
 ## Getting Started
 
